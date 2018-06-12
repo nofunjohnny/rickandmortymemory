@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Rick",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a2359f6a49631dd5192339/1503802789674/RickAndMorty_RickHappy1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 2,
+    "name": "Dad",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a235a2a803bb46c7a0934f/1503802790552/RickAndMorty_SmugJerry1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 3,
+    "name": "ScreamingRic",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a2359de9bfdf1bb9544ca0/1503802786088/RickAndMorty_RaMShocked1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 4,
+    "name": "pickle",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a2359cb8a79b31c939a6fc/1503802787430/RickAndMorty_RaMportal1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 5,
+    "name": "MyMan",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a235a9d7bdce4514e1cb19/1503802798864/RickAndMorty_MailmanMyMan1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 6,
+    "name": "morty",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a235a0914e6bc2a73ccf5d/1503802789492/RickAndMorty_ScaredMorty1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 7,
+    "name": "rickbird",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a23593f14aa15be9d5cf9b/1503802777419/RickAndMorty_BestBuddies1500_V2.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 8,
+    "name": "OhhWee",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a2359ccd39c3181c45ba52/1503802784648/RickAndMorty_OohWeeMrPoopyButthole1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 9,
+    "name": "ohhWeeShoit",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a2359af9a61eb2ab0a1b8f/1503802898704/RickAndMorty_MrPoopyButtholeShot_1500_BONUS.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 10,
+    "name": "why",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a2359349fc2b116e6f8543/1503802776839/RickAndMorty_BethSadWhy1500.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 11,
+    "name": "computer",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a235a8f43b558cac6c42b1/1503802798465/RickAndMorty_ButterRobotOMG1500_V2.png?format=500w",
+    "count": 0
+  },
+  {
+    "id": 12,
+    "name": "Irickmorty",
+    "image": "https://static1.squarespace.com/static/528252b7e4b00150d03a4848/59a2354eebbd1a0623e0cefe/59a2388ee45a7c6cfa2cdfc6/1504974456538/Booth_RaM_FB_Personal.jpg?format=500w",
+    "count": 0
+  }
+]
